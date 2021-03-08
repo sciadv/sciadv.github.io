@@ -1,2 +1,2 @@
-## Welcome to Science Adventure
+### Welcome to Science Adventure
 
